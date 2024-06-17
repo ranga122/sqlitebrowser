@@ -18,7 +18,7 @@ body:
     attributes:
       label: Does this feature exist in another product or project? Please provide a link
     validations:
-      required: false
+      required: true
   - type: textarea
     id: screenshot
     attributes:
